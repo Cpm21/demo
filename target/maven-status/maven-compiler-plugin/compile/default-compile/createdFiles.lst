@@ -1,0 +1,5 @@
+com\springboot\crud\CrudApplication.class
+com\springboot\crud\service\crudservice.class
+com\springboot\crud\controller\crudcontroller.class
+com\springboot\crud\repo\crudrepo.class
+com\springboot\crud\model\crudmodel.class
